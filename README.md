@@ -104,7 +104,7 @@ A versatile and dedicated full-stack web developer with 3+ years of experience i
 
 ## Education
 
-- **B Electrical and Electronics Engineering:** Near East University , 2021-02
+- **Electrical and Electronics Engineering:** Near East University , 2021-02
 - **Certifications:**
   - **Full Stack Web Developer Udacity Nanodegree:**
     1. Built a tool to analyze website data from a SQL database
