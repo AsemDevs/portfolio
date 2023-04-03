@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A versatile and dedicated full-stack web developer with 3+ years of experience in various web development roles, specializing in both frontend and backend development. Proficient in PHP, HTML, CSS, JavaScript, and WordPress theme development, I have a strong background in developing high-performance websites and applications with a focus on user experience and search engine optimization. Passionate about staying up-to-date with the latest industry trends and continuously learning to improve my skills and expertise.
+A versatile and dedicated full-stack web developer with 3+ years of experience in various web development roles, specializing in both frontend and backend development. Proficient in PHP, HTML, CSS, JavaScript, and WordPress theme development, I have a strong background in developing high-performance websites and applications with a focus on user experience and search engine optimization. Experienced in working remotely and passionate about staying up-to-date with the latest industry trends and continuously learning to improve my skills and expertise.
 
 ## Technical Skills
 
@@ -27,14 +27,21 @@ A versatile and dedicated full-stack web developer with 3+ years of experience i
 
 ### Tools and Technologies
 
+- Composer (PHP package manager)
+- NPM/Yarn (JavaScript package manager)
+- Git (Version Control System)
 - Docker
 - GitLab
 - FileZilla
 - SSH
 - Zeplin
+- Figma
+- WooCommerce
 - Adobe Sketch
 - Google Analytics
 - Google Adsense
+- JIRA & Clickup
+- CI/CD workflows
 
 ## Projects
 
@@ -105,29 +112,34 @@ A versatile and dedicated full-stack web developer with 3+ years of experience i
 ## Education
 
 - **Electrical and Electronics Engineering:** Near East University , 2021-02
-- **Certifications:**
-  - **Full Stack Web Developer Udacity Nanodegree:**
-    1. Built a tool to analyze website data from a SQL database
-    2. Created a database-backed web application with full CRUD capability
-    3. Deployed my web application to a secure, live web server
-    4. Built these projects: Linux Server, Item Catalog, and Log Analysis.
-  - **TEDx Volunteer Certificate from TED:**
-    1. Learned how to organize a TEDx event
-    2. Learned how to create a TEDx event
-    3. Learned how to promote and sponsor a TEDx event
-    4. Learned how to manage a TEDx event
-    5. Learned how to evaluate a TEDx event
-  - **Front-End Web Developer from Udacity:**
-    1. Built a portfolio site using HTML, CSS, and the Bootstrap framework
-    2. Developed a memory game using JavaScript
-    3. Created a web-based application that reads RSS feeds using Jasmine
-    4. Developed a neighborhood map using the Google Maps API and Knockout framework
-    5. Built these projects: Animal Trading Cards, Pixel Art Maker, Classic Arcade Game Clone, Website Optimization, and Neighborhood Map.
+
+## Certifications
+
+- **Full Stack Web Developer Udacity Nanodegree:**
+  1. Built a tool to analyze website data from a SQL database
+  2. Created a database-backed web application with full CRUD capability
+  3. Deployed my web application to a secure, live web server
+  4. Built these projects: Linux Server, Item Catalog, and Log Analysis.
+- **TEDx Volunteer Certificate from TED:**
+  1. Learned how to organize a TEDx event
+  2. Learned how to create a TEDx event
+  3. Learned how to promote and sponsor a TEDx event
+  4. Learned how to manage a TEDx event
+  5. Learned how to evaluate a TEDx event
+- **Front-End Web Developer from Udacity:**
+  1. Built a portfolio site using HTML, CSS, and the Bootstrap framework
+  2. Developed a memory game using JavaScript
+  3. Created a web-based application that reads RSS feeds using Jasmine
+  4. Developed a neighborhood map using the Google Maps API and Knockout framework
+  5. Built these projects: Animal Trading Cards, Pixel Art Maker, Classic Arcade Game Clone, Website Optimization, and Neighborhood Map.
 
 ## Soft Skills
 
 - Excellent problem-solving skills
 - Strong communication abilities
-- Effective teamwork and collaboration
+- Effective teamwork and collaboration 
 - Adaptability and quick learning
 - Attention to detail
+- Independence, self-motivation, and organization
+- Critical and solution-oriented thinking
+- Experience working remotely
