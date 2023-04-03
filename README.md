@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A versatile and dedicated full-stack web developer with 3+ years of experience in various web development roles, specializing in both frontend and backend development. Proficient in PHP, HTML, CSS, JavaScript, and WordPress theme development, I have a strong background in developing high-performance websites and applications with a focus on user experience and search engine optimization. Experienced in working remotely and passionate about staying up-to-date with the latest industry trends and continuously learning to improve my skills and expertise.
+A versatile and dedicated full-stack web developer with 5+ years of experience in various web development roles, specializing in both frontend and backend development. Proficient in PHP, HTML, CSS, JavaScript, and WordPress theme development, I have a strong background in developing high-performance websites and applications with a focus on user experience and search engine optimization. Experienced in working remotely and passionate about staying up-to-date with the latest industry trends and continuously learning to improve my skills and expertise.
 
 ## Technical Skills
 
