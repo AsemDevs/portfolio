@@ -82,14 +82,14 @@ A versatile and dedicated full-stack web developer with 3+ years of experience i
 
 ## Work Experience
 
-### Full Stack Web Developer at RocApply
+### Full Stack Developer at Tixee
 
-- **Duration:** Month Year - Month Year
+- **Duration:** 2022-09 - present
 - **Responsibilities:**
-  - Redesigned and developed new features for the RocApply website
-  - Worked on both frontend and backend development using MODx CMS and PHP
-  - Implemented multilingual functionality and created various custom features
-  - Handled SEO, Google Analytics, and Google Adsense
+  - Developed and maintained the company's WordPress website
+  - Created custom login and registration forms connected to their CRM API
+  - Worked on various backend tasks and fixed translation plugin bugs
+  - Developed high-performance landing pages and integrated various APIs
 
 ### Web Developer at Flexistax
 
@@ -100,14 +100,14 @@ A versatile and dedicated full-stack web developer with 3+ years of experience i
   - Worked with Docker, GitLab, and other development tools
   - Gained experience in version control systems and DevOps
 
-### Full Stack Developer at Tixee
+### Full Stack Web Developer at RocApply
 
-- **Duration:** Month Year - Month Year
+- **Duration:** 2020-10 - 2021-10
 - **Responsibilities:**
-  - Developed and maintained the company's WordPress website
-  - Created custom login and registration forms connected to their CRM API
-  - Worked on various backend tasks and fixed translation plugin bugs
-  - Developed high-performance landing pages and integrated various APIs
+  - Redesigned and developed new features for the RocApply website
+  - Worked on both frontend and backend development using MODx CMS and PHP
+  - Implemented multilingual functionality and created various custom features
+  - Handled SEO, Google Analytics, and Google Adsense
 
 ## Education
 
