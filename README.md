@@ -58,7 +58,7 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
   - Implemented a university and school ranking system
   - Developed career pages and job application system
   - Handled SEO, Google Analytics, and Google Adsense
-- **Links:** [Live Demo](rocapply.com)
+- **Links:** [Live Demo](https://www.rocapply.com/home)
 
 ### Kiobe WordPress Theme Development
 
@@ -69,13 +69,13 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
   - Developed a custom portfolio page
   - Created a custom pricing page
   - Developed a custom services page
-- **Links:** [Live Demo](tixee.com)
+- **Links:** [Live Demo](https://tixee.com/)
 
 ### HomeJeddah.com - WordPress Theme Development
 
 - **Description:** Developed a custom WordPress theme from scratch for HomeJeddah.com, a platform showcasing home services in Saudi Arabia. The project involved creating a responsive and user-friendly design and implementing various custom features to meet the requirements of the platform.
 - **Technologies:** WordPress, PHP, HTML, CSS, JavaScript
-- **Links:** [Live Demo](homejeddah.com)
+- **Links:** [Live Demo](https://homejeddah.com)
 
 ### Tixee.com Website Development
 
