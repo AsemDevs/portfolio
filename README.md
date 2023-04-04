@@ -69,7 +69,6 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
   - Developed a custom portfolio page
   - Created a custom pricing page
   - Developed a custom services page
-- **Links:** [Live Demo](https://tixee.com/)
 
 ### HomeJeddah.com - WordPress Theme Development
 
@@ -89,6 +88,7 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
   - Developed high-performance landing pages
   - Integrated APIs for trading data presentation
   - Worked closely with the CMO to meet marketing goals and created goals in Google Analytics
+- **Links:** [Live Demo](https://tixee.com/)
 
 ## Work Experience
 
