@@ -12,6 +12,7 @@
    - [Kiobe WordPress Theme Development](#kiobe-wordpress-theme-development)
    - [HomeJeddah.com - WordPress Theme Development](#homejeddah-wordpress-theme-development)
    - [Tixee.com Website Development](#tixee-website-development)
+   - [User Spotlight Pro WordPress Plugin](#user-spotlight-pro-wordpress-plugin)
 4. [Ongoing Projects](#ongoing-projects)
 5. [Work Experience](#work-experience)
    - [Full Stack Developer at Tixee](#full-stack-developer-at-tixee)
@@ -112,6 +113,18 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
   - Worked closely with the CMO to meet marketing goals and created goals in Google Analytics
 - **Links:** [Live Demo](https://tixee.com/)
 
+### User Spotlight Pro WordPress Plugin
+
+- **Description:** Developed a custom WordPress plugin that fetches and displays user details from an external API. REST API endpoint to fetch the user details, and a template for displaying user details.
+- **Technologies:** PHP, HTML, CSS, JavaScript, WordPress Plugin API.
+- **Features:**
+  - Created a custom WordPress plugin to display user details from an external API
+  - Implemented a REST API endpoint to fetch user details
+  - Integrated AJAX calls to fetch and display data from the REST API
+  - Created a template for displaying user details in a user-friendly format
+  - Ensured the plugin is compatible with different versions of WordPress
+- **Links:** [GitHub Repository](https://github.com/AsemDevs/Users-List-REST-API-Integration)
+
 ## Ongoing Projects
 
 Here's a list of some of the exciting projects I'm currently working on:
@@ -121,8 +134,9 @@ Here's a list of some of the exciting projects I'm currently working on:
 - **Description:** Developing a website for Hilwa Dairy, a company that produces milk products. The aim of the website is to showcase the company's products, provide information about the company, and serve as a point of contact for customers.
 - **Technologies:** WordPress, PHP, HTML, CSS, JavaScript.
 - **Responsibilities:** My role involves designing and implementing the website layout, creating pages for product display, and implementing contact forms and other features as required.
-- **Progress:** The design phase has been completed and development is underway. ![Progress](https://progress-bar.dev/60)
-- **Expected Completion:** The website is expected to go live by the end of July 2023.
+- **Progress:** The design phase has been completed and development is underway. ![Progress](https://progress-bar.dev/100)
+- **Expected Completion:** The website is expected to go live by the end of may 2023.
+- **Links:** [Website Link](https://www.hilwadairy.com/)
 
 ### WordPress Online Booking System Plugin
 
