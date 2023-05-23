@@ -1,5 +1,27 @@
 # Asem Abdou
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Technical Skills](#technical-skills)
+   - [Languages](#languages)
+   - [Frameworks and Libraries](#frameworks-and-libraries)
+   - [Tools and Technologies](#tools-and-technologies)
+3. [Projects](#projects)
+   - [RocApply Website Redesign and Enhancement](#rocapply-website-redesign-and-enhancement)
+   - [Kiobe WordPress Theme Development](#kiobe-wordpress-theme-development)
+   - [HomeJeddah.com - WordPress Theme Development](#homejeddah-wordpress-theme-development)
+   - [Tixee.com Website Development](#tixee-website-development)
+4. [Ongoing Projects](#ongoing-projects)
+5. [Work Experience](#work-experience)
+   - [Full Stack Developer at Tixee](#full-stack-developer-at-tixee)
+   - [Web Developer at Flexistax](#web-developer-at-flexistax)
+   - [Full Stack Web Developer at RocApply](#full-stack-web-developer-at-rocapply)
+6. [Education](#education)
+7. [Certifications](#certifications)
+8. [Soft Skills](#soft-skills)
+9. [LinkedIn Recommendations](#linkedin-recommendations)
+
 ## Introduction
 
 A versatile and dedicated full-stack web developer with 5+ years of experience in various web development roles, specializing in both frontend and backend development. Proficient in PHP, HTML, CSS, JavaScript, and WordPress theme development, I have a strong background in developing high-performance websites and applications with a focus on user experience and search engine optimization. Experienced in working remotely and passionate about staying up-to-date with the latest industry trends and continuously learning to improve my skills and expertise.
@@ -70,13 +92,13 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
   - Created a custom pricing page
   - Developed a custom services page
 
-### HomeJeddah.com - WordPress Theme Development
+### HomeJeddah WordPress Theme Development
 
 - **Description:** Developed a custom WordPress theme from scratch for HomeJeddah.com, a platform showcasing home services in Saudi Arabia. The project involved creating a responsive and user-friendly design and implementing various custom features to meet the requirements of the platform.
 - **Technologies:** WordPress, PHP, HTML, CSS, JavaScript
 - **Links:** [Live Demo](https://homejeddah.com)
 
-### Tixee.com Website Development
+### Tixee Website Development
 
 - **Description:** Worked as a full stack developer for Tixee, a trading platform company, to develop and maintain their WordPress website. Focused on creating custom features to meet marketing goals and improve the overall user experience.
 - **Technologies:** WordPress, PHP, HTML, CSS, JavaScript, CRM API integration
@@ -89,6 +111,26 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
   - Integrated APIs for trading data presentation
   - Worked closely with the CMO to meet marketing goals and created goals in Google Analytics
 - **Links:** [Live Demo](https://tixee.com/)
+
+## Ongoing Projects
+
+Here's a list of some of the exciting projects I'm currently working on:
+
+### Hilwa Dairy Website
+
+- **Description:** Developing a website for Hilwa Dairy, a company that produces milk products. The aim of the website is to showcase the company's products, provide information about the company, and serve as a point of contact for customers.
+- **Technologies:** WordPress, PHP, HTML, CSS, JavaScript.
+- **Responsibilities:** My role involves designing and implementing the website layout, creating pages for product display, and implementing contact forms and other features as required.
+- **Progress:** The design phase has been completed and development is underway. ![Progress](https://progress-bar.dev/60)
+- **Expected Completion:** The website is expected to go live by the end of July 2023.
+
+### WordPress Online Booking System Plugin
+
+- **Description:** I am currently developing a new WordPress plugin to facilitate online booking. The plugin will allow businesses to manage bookings and reservations directly from their WordPress dashboard.
+- **Technologies:** PHP, HTML, CSS, JavaScript, WordPress Plugin API.
+- **Responsibilities:** As the sole developer on this project, I am responsible for planning, designing, and coding the plugin. I am also in charge of testing the plugin for bugs and compatibility issues with different versions of WordPress.
+- **Progress:** The planning and design phases have been completed, and I am currently in the coding phase. ![Progress](https://progress-bar.dev/20)
+- **Expected Completion:** The first version of the plugin is expected to be ready for testing by june 2023.
 
 ## Work Experience
 
@@ -147,9 +189,15 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
 
 - Excellent problem-solving skills
 - Strong communication abilities
-- Effective teamwork and collaboration 
+- Effective teamwork and collaboration
 - Adaptability and quick learning
 - Attention to detail
 - Independence, self-motivation, and organization
 - Critical and solution-oriented thinking
 - Experience working remotely
+
+## LinkedIn Recommendations
+
+For more insights on my professional expertise, feel free to check out the recommendations on my LinkedIn profile:
+
+[View my LinkedIn Recommendations](https://linkedin.com/in/asemhamdi/details/recommendations/)
