@@ -1,4 +1,4 @@
-# Asem Abdou
+# Asem Abdo
 
 ## My Tech Stack
 
